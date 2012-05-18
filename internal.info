@@ -1,0 +1,24 @@
+name = internal
+description = Install profile for Intranet type websites
+core = 7.x
+
+dependencies[] = block
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options 
+dependencies[] = path
+dependencies[] = taxonomy 
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = admin_menu
+dependencies[] = features
+
+files[] = internal.profile
+
