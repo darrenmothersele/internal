@@ -15,6 +15,15 @@ projects[token][subdir] = "contrib"
 projects[pathauto][subdir] = "contrib"
 projects[redirect][subdir] = "contrib"
 
+projects[freelinking][subdir] = contrib
+projects[freelinking][version] = 3.x-dev
+projects[freelinking][patch][1351932] = "http://drupal.org/files/freelinking_prepopulate-1351932-4.patch"
+
+projects[wikitools][subdir] = contrib
+projects[wikitools][version] = 1.x-dev
+projects[prepopulate][subdir] = contrib
+projects[prepopulate][version] = 2.x-dev
+
 projects[date][subdir] = "contrib"
 projects[calendar][subdir] = "contrib"
 projects[entityreference][subdir] = "contrib"
