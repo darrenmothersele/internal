@@ -17,7 +17,7 @@ projects[redirect][subdir] = "contrib"
 
 projects[freelinking][subdir] = contrib
 projects[freelinking][version] = 3.x-dev
-projects[freelinking][patch][1351932] = "http://drupal.org/files/freelinking_prepopulate-1351932-4.patch"
+projects[freelinking][patch][1351932] = "http://drupal.org/files/freelinking_prepopulate-1351932-14.patch"
 
 projects[wikitools][subdir] = contrib
 projects[wikitools][version] = 1.x-dev
